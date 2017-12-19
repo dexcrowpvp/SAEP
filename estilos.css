@@ -1,0 +1,46 @@
+body{
+	padding-bottom: 10px;
+    background-image: url(images/home/footer2.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-size: contain;
+}
+
+.margenhorario{
+	margin-top: 7%;
+	margin-bottom: : 7%;
+	margin-left: 150px;
+	margin-right: 150px;
+	background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: contain;
+ }
+
+.margenhorario2{
+  margin-top: 7%;
+  margin-bottom: : 7%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: contain;
+ }
+
+ h1{
+ 	margin-left: 22%;
+ 	font-family: Verdana;
+ }
+
+ .botonn{
+ 	  width: 100%;
+  	background-color: #4fcccd;
+  	color: #fff;
+  	font-size: 12px;
+  	font-weight: 300;
+  	letter-spacing: 5px;
+  	text-transform: uppercase;
+  	border-radius: 30px;
+  	margin-top: 50px;
+  	border-bottom: 3px solid #2f9697;
+  	padding: 10px;
+ }
